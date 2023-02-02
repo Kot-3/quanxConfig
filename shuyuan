@@ -1,5 +1,4 @@
-[ 
-{
+[{
     "bookSourceComment": "解决目前所见到的所有问题，包括页面解析、分页有的页面获取不到、图片转文字等问题，并对内容中出现的翻页断行、以前流行的35字换行排版、部分内容显示HTML源码、推广文字、广告等进行了恢复与过滤。\n效果自认为是不错的，就是慢，巨慢，分页多的章节可能获取文字就要几分钟，毕竟，要做过滤和处理。\n凑合用吧兄弟们，后续暂时不准备修改了。\n地址发布页(浏览器打开)\nhttp:\/\/www.diyibanzhu666.xyz\n目前可用地址：\nhttp:\/\/www.tz659.com\nhttp:\/\/hdyp.net\nhttp:\/\/www.bz3333.xyz\nhttps:\/\/yydstxt.cc\n获取最新可用网址\n大家可以根据自己的网络情况选一个最快的来用\n替换👉源域名👈链接即可\n注意版主一系各站点数据库并非完全同步，所以换了地址之后原有的小说如果追更就需要重新搜索。\n建议用复制出来源换个名称再批量改源的方式来做。",
     "bookSourceGroup": "🔞, 🔞版主",
     "bookSourceName": "🔞🔲第一版主【by812@221012】",
@@ -59,5 +58,4 @@
     },
     "searchUrl": "\/s.php,{\n\t\"charset\":\"gbk\",\n\t\"method\":\"POST\",\n\t\"headers\":{\"Referer\": \"{{baseUrl}}s\/php\"},\n\t\"body\":\"objectType=2&type=articlename&s={{key}}&page={{page}}\"\n\t}",
     "weight": 0
-}
-]
+}]
